@@ -1,4 +1,4 @@
-# Facial-Expression-Project-FCNN
+# Facial-Expression-Project-CNN
 
 Emotion Recognition Project using CNN
 
